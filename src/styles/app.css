@@ -1,0 +1,87 @@
+
+
+.mainHeader {
+  color: red;
+}
+
+
+.mainNav {
+  width: 800px;
+  height: 30px;
+  background-color: blue;
+  line-height: 20px;
+  padding-top: 15px;
+  border-bottom: 2px solid white;
+}
+
+a {
+  margin: 50px;
+  color: white;
+
+}
+
+a:hover {
+  color: red;
+}
+
+
+.mainFooter {
+  width: 800px;
+  height: 30px;
+  background-color: blue;
+  color: white;
+  line-height: 20px;
+  padding-top: 15px;
+  border-top: 2px solid white;
+}
+
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+
+.main {
+  width: 800px;
+  height: 100%;
+  background-color: gray;
+  margin: 0 auto;
+}
+
+
+.inputField {
+  width: 400px;
+  height: 50px;
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+
+.submitButton {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.submitButton:hover {
+  color: red;
+}
+
+
+.inputPane {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
